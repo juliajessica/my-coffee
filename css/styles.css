@@ -26,8 +26,8 @@ IMG.displayed {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 730px;
-  height: auto;
+  max-width: 730px;
+  max-height: auto;
 }
 
 .quiz {
