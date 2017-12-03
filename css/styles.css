@@ -28,3 +28,8 @@ IMG.displayed {
   width: 730px;
   height: auto;
 }
+
+.quiz {
+  text-shadow: 7px;
+  color: #a39b7f
+}
