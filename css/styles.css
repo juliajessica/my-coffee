@@ -10,8 +10,9 @@ h1 {
 
 .column {
   border: 2px solid black;
-  padding: 4px;
+  padding: 10px;
   margin: 12px;
+
 }
 
 .coffee {
